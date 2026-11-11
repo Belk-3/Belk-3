@@ -9,9 +9,9 @@ Java · Python · JavaScript / TypeScript · React · HTML / CSS · Cisco Packet
 ### Projects
 | Project | What it is |
 |---|---|
-| [University Information System](https://github.com/Belk-3/OOP-Design) | Java console app — 5 user roles, design patterns (Singleton, Factory, Decorator) |
-| [Shanyraq](https://github.com/Nurisssss/Shanyraq) | Real-estate marketplace — team project (TypeScript) |
-| [Smart Campus](https://github.com/Belk-3/SWEt) | Room booking app — Software Engineering course (React) |
+| [University Information System](https://github.com/Belk-3/OOP-Design) | Java console app - 5 user roles, design patterns (Singleton, Factory, Decorator) |
+| [Shanyraq](https://github.com/Nurisssss/Shanyraq) | Real-estate marketplace - team project (TypeScript) |
+| [Smart Campus](https://github.com/Belk-3/SWEt) | Room booking app - Software Engineering course (React) |
 | [Web Development labs](https://github.com/Belk-3/Web-Dev) | HTML / CSS / JS lab works |
 
 ### Currently learning
