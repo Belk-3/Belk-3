@@ -3,7 +3,7 @@
 3rd-year Computer Science student at **Kazakh-British Technical University** (Almaty, Kazakhstan).
 I learn by building - course projects, small tools, and experiments with AI.
 
-### 🛠 What I've worked with
+### What I've worked with
 Java · Python · JavaScript / TypeScript · React · HTML / CSS · Cisco Packet Tracer · Git · UML
 
 ### Projects
